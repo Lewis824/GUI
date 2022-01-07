@@ -1,4 +1,3 @@
 # GUI
-Just as a daily little demo exercise
 
-01.07
+Just as a daily little demo exercise
