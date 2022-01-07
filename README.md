@@ -1,3 +1,3 @@
 # GUI
 
-Just as a daily little demo exercise
+Just as a daily little demo exercise.
